@@ -1,5 +1,5 @@
 <html>
 <head>
-<meta http-equiv="refresh" content="1; url=/index.html">
+<meta httpequiv="refresh" content="1; url=/index.html">
 </head>
 </html>
